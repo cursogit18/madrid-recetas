@@ -16,11 +16,9 @@ Aquí hay recetas de
 	- Guiso
 	- Caldereta de Pescado
 	- Carrilleras al vino
-	- Cocido madrileño
+	- Cocido madrileño I
+	- Cocido Madrileño II
 	- Estofado de Ternera
-	- Pollo a la cerveza
-	- Pollo con pisto
-	- Pollo con verduras 
 	- Guiso de carne con patatas  
 	- Patatas fritas horneadas
 	- guiso1
@@ -29,8 +27,15 @@ Aquí hay recetas de
 * [Carne & aves](Carne & aves/)
 	- Pollo a la cerveza
 	- Pollo con verdura
-	- Lentejas
 	- Morteruelo
+	- Pollo
+	- Pollo a la cerveza
+	- Pollo con pisto
+	- Pollo con verduras 
+
+* [Vegetarianas](Vegetarianas/)
+	- Tortilla de Patatas Vegana 
+	- Lasaña de verduras
 
 * [Postres](Postres/)
 	- Macedonia
@@ -39,10 +44,12 @@ Aquí hay recetas de
 	- Buñuelos de manzanas
 	- Higos con queso de cabra gratinados
 	- Mousse de limón con merengue
-	- Tarta de manzana
   	- Flan de huevo
 	- tarta de fresa
 	- postre1
+	- Tarta de manzana I
+	- Tarta de manzana II
+	- Tarta de zanahoria
 
 * [Verduras](Verduras/)
 	- Ratatouille
@@ -50,13 +57,14 @@ Aquí hay recetas de
 
 * [Tortillas](Tortillas/)
 	- Patatas
-	- De Patatas Vegana 
 	- Patatas cocidas
 	- Francesa
 	- Chorizo
 	- Tuning
 	- Espinacas
 	- Atun
+	- Paisana
+
 
 Para colaborar
 --------------
